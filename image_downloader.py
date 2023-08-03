@@ -4,7 +4,7 @@ from PIL import Image
 import math
 
 # Google Maps API Key
-API_KEY = 'AIzaSyBjaNXABzPLlqhoMas7MMwdPsCGUpp-g0w'
+API_KEY = ''
 
 TILE_SIZE = 512
 NW_COORD = [50.295702, 18.661792]
